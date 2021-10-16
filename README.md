@@ -50,7 +50,7 @@ Cilj kolegija je upoznati studente s ulogom i značajem menadžmenta u upravljan
 - 12.10.2021. DZ-1
 - TBD
 
-## Instalation
+## Installation
 
 - In the top-right corner of the page, click **Fork**.
 - Switch to the desirable branch
